@@ -1,0 +1,106 @@
+
+.icon{
+    margin-left: 223px;
+    margin-top: -30px;
+}
+.icon2{
+    margin-left: 223px;
+    margin-top: -30px;
+}
+.input-box2{
+    margin-top: 40px;
+}
+.remember-forgot {
+    font-size: .9em;
+    color: #162938;
+    font-weight: 500;
+    margin: 30px 0 -15px;
+    display: flex;
+    justify-content: space-between;
+}
+.login-register {
+    font-size: 15px;
+    color: #162938;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 21px;
+    margin-left: -330px;
+}
+
+.login-register p a:hover {
+    text-decoration: underline;
+    color: paleturquoise;
+}
+.btn {
+    width: 18%;
+    height: 25px; 
+    background: #162938;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: small;
+    color: #fff;
+    font-weight: 200;
+    margin-left: 158px;
+   
+}
+.fr{
+    accent-color: #162938;
+   margin-left: 60px;
+    font-size: 15px;
+    margin-top: -16px;
+}
+.full{
+    margin-top: 200px;
+    margin-left: 220px;
+    height: 540px;
+    background-color: rgb(244, 142, 8);
+    width: 30%;
+    padding-left: 120px;
+    padding-top: 108px;
+    
+}
+.hi{
+    margin-left: 12px;
+    margin-top: 36px;
+    width: 13%;
+}
+.hee{
+    margin-left: 93px;
+    margin-top: -28px;
+
+}
+.helo{
+    margin-top: -26px;
+    margin-left: 118px;
+    width: 17%;
+}
+.icon3{
+    margin-left: 216px;
+    margin-top: -25px;
+    font-size: 17px;
+
+}
+.input-box3{
+    margin-top: 30px;
+
+}
+.input-box4{
+    margin-top: 20px;
+}
+.input-box5{
+    margin-top: 20px;
+    
+}
+.icon4{
+    margin-left: 216px;
+    margin-top: -25px;
+
+}
+.icon5{
+    margin-left: 216px;
+    margin-top: -25px;
+
+}
+.gk{
+    margin-left: -165px;
+}
